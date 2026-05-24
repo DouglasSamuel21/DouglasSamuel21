@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Ola!, Sou Douglas Samuel, estudante de desenvolvimento web e apaixonado por tecnologia. Aqui no GitHub compartilho meus projetos, estudos e minha evolução na programação. Já concluí HTML e CSS, e atualmente estou finalizando JavaScript, sempre buscando melhorar minhas habilidades e criar projetos cada vez melhores.🚀orld!!</p>
+<p align="left">💻 Ola!, Sou Douglas Samuel, estudante de desenvolvimento web e apaixonado por tecnologia. Aqui no GitHub compartilho meus projetos, estudos e minha evolução na programação. Já concluí HTML e CSS, e atualmente estou finalizando JavaScript, sempre buscando melhorar minhas habilidades e criar projetos cada vez melhores.🚀</p>
 
 ###
 
