@@ -31,7 +31,7 @@
 ## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=douglassamuel21&theme=tokyonight" />
 </p>
 
 ---
