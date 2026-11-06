@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá! 👋 Eu sou Douglas Samuel</h1>
 
 <h3 align="center">
@@ -21,9 +22,9 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DouglasSamuel21&show_icons=true&theme=tokyonight" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSamuel21&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -31,7 +32,7 @@
 ## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=douglassamuel21&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DouglasSamuel21&theme=tokyonight" />
 </p>
 
 ---
@@ -39,7 +40,7 @@
 ## 🐍 Cobrinha das contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DouglasSamuel21/DouglasSamuel21/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -47,7 +48,7 @@
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DouglasSamuel21&theme=tokyonight&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -55,17 +56,18 @@
 ## 🌎 Redes sociais
 
 <p align="center">
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/DouglasSamuel21">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/douglas-samuel-devfull/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitantes&color=8A2BE2&style=for-the-badge" />
-</p
+  <img src="https://komarev.com/ghpvc/?username=DouglasSamuel21&label=Visitantes&color=8A2BE2&style=for-the-badge" />
+</p>
+
